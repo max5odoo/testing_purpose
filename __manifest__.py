@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "manthan chawda suresh",
+    'name': "manthan chawda suresh raxa chawdaa",
 
     'summary': """
        """,
